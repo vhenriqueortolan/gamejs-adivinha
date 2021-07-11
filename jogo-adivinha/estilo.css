@@ -1,0 +1,32 @@
+body {
+    font: normal 16px Poppins;
+    background-color: rgb(65, 80, 80);
+}
+header {
+    color: white;
+    text-align: center;
+}
+section {
+    width: 80%;
+    background-color: white;
+    padding: 15px;
+    border-radius: 15px;
+    margin: 0 auto;
+}
+.botao {
+    margin: 0 auto;
+    text-align: center;
+}
+.button {
+    font: bold 12px Poppins;
+    padding: 5px;
+    border-radius: 10px;
+}
+.resultado {
+    padding: 15px;
+}
+footer {
+    color: white;
+    text-align: center;
+    margin-top: 80px;
+}
